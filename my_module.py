@@ -11,4 +11,4 @@ def div(a,b):
     return a // b
 
 def add2(a,b):
-    return a + b + a + b
+    return (a + b)*2
